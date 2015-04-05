@@ -1,0 +1,8 @@
+# Development files
+/.jshintrc
+/.editorconfig
+/.travis.yml
+/benchmark.js
+/logo.png
+/logo.svg
+/test.js
